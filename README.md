@@ -1,6 +1,16 @@
 # libtftp
 Lightweight cross-platform TFTP server library
 
+[tocstart]: # (toc start)
+
+  * [ESP32 usage](#esp32-usage)
+  * [Building for ESP32](#building-for-esp32)
+  * [Linux](#linux)
+  * [Building for Linux](#building-for-linux)
+  * [License](#license)
+
+[tocend]: # (toc end)
+
 ## ESP32 usage
 
 Running server in blocking mode
