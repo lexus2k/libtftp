@@ -76,7 +76,7 @@ server.stop();
 
 ## License
 
-The library is free. If this project helps you, you can give me a cup of coffee.
+The library is free.
 
 MIT License
 
