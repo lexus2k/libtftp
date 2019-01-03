@@ -77,7 +77,6 @@ server.stop();
 ## License
 
 The library is free. If this project helps you, you can give me a cup of coffee.
-[![Donate via Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/lexus2k)
 
 MIT License
 
